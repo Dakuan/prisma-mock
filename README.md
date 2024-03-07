@@ -4,6 +4,11 @@
 * create .env file
 * add DATABASE_URL='$YOUR_POSTGRES' to the .env
 
+# run migrations
+
+```
+npx prisma migrate dev
+```
 
 # Test
 
